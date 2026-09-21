@@ -1,0 +1,8 @@
+{
+  "name": "Mobin Mohseni Portfolio",
+  "short_name": "Mobin Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "fa"
+}
